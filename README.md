@@ -20,6 +20,11 @@
 - 코드의 가독성과 알고리즘에 맞게 코딩하는것에 노력하고 있습니다.
 - 브라우저의 호환성을 고려하려 코딩하고 있습니다.
 
+## PHP
+- 기존에 만든 프론트엔드와 연결하여 보다 편리하게 관리하고 있습니다.
+- 보안을 우선적으로 생각하고 있습니다.
+- PHP에서 Router방식으로 사용하여 유지보수하기 쉽게 만들고 있습니다.
+
 ## 주로 사용
 ![N|Solid](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![N|Solid](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![N|Solid](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
